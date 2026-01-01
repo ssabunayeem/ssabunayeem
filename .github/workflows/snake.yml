@@ -9,21 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout repo
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      # 2️⃣ Generate snake SVG
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ssabunayeem
-          output: github-contribution-grid-snake-dark.svg  # file at root
+          output: github-contribution-grid-snake-dark.svg
 
-      # 3️⃣ Push to output branch
-      - name: Push to Output Branch
+      - name: Push to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
