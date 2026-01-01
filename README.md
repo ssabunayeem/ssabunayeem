@@ -36,33 +36,32 @@
 <div align="center">
 
 <!-- Frontend -->
+
+### Frontend
+
 <table>
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind</td>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </tr>
 </table>
 
 <!-- Backend -->
+
+### Backend
+
 <table>
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>Firebase</td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </tr>
 </table>
 
 <!-- Programming -->
+
+### Programming & Tools
+
 <table>
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/>C</td>
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,postman" />
 </tr>
 </table>
 
