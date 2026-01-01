@@ -157,14 +157,13 @@
 
 ## ✨ Featured Projects
 
-<div align="center">
- 🔗 **Blood Donation – MERN App**
-  https://github.com/ssabunayeem/P11-Blood-frontend
+- 🔗 [Blood Donation MERN App](https://github.com/ssabunayeem/P11-Blood-frontend)  
+  ![Blood App Screenshot](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/yim-blood-donation-ss.jpeg)
 
- 🔗 **PawMart – React App**
- https://github.com/ssabunayeem/P10-PawMart-frontend
-  
-</div>
+- 🔗 [PawMart – React App](https://github.com/ssabunayeem/P10-PawMart-frontend)  
+  ![PawMart Screenshot](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/p10-winter-pet-care-ss.jpeg)
+
+
 ---
 
 
