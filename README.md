@@ -156,5 +156,5 @@
 
 <img
   width="100%."
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:1A1B4B,40:3FD2FF,70:7B6CFF,100:B388FF"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:1A1B4B,40:3FD2FF,70:7B6CFF,100:B388FF"
 />
