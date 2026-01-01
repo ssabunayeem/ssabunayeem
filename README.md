@@ -196,8 +196,8 @@
 
 <div align="center">
 
-[![Blood Donation App](https://raw.githubusercontent.com/ssabunayeem/P11-Blood-frontend/main/screenshot.png)](https://github.com/ssabunayeem/P11-Blood-frontend)  
-[![PawMart React App](https://raw.githubusercontent.com/ssabunayeem/P10-PawMart-frontend/main/screenshot.png)](https://github.com/ssabunayeem/P10-PawMart-frontend)
+[![Blood Donation App](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/blob/main/resources/p10-winter-pet-care-ss.jpeg)](https://github.com/ssabunayeem/P11-Blood-frontend)  
+[![PawMart React App](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/blob/main/resources/yim-blood-donation-ss.jpeg)](https://github.com/ssabunayeem/P10-PawMart-frontend)
 
 </div>
 
