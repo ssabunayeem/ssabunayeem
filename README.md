@@ -137,19 +137,20 @@
 
 ## ✨ Featured Projects
 
-<div align="center">
+- 🔗 **Blood Donation MERN App**  
+  https://github.com/ssabunayeem/P11-Blood-frontend
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Blood_Donation_MERN_App-181717?logo=github)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/ssabunayeem/P11-Blood-frontend))
-[![GitHub Repo](https://img.shields.io/badge/GitHub-PawMart_React_App-181717?logo=github)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/ssabunayeem/P10-PawMart-frontend))
+- 🔗 **PawMart – React App**  
+  https://github.com/ssabunayeem/P10-PawMart-frontend
 
-</div>
+---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ssabunayeem)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://ssabunayeem.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ssabunayeem@gmail.com)
 
 </div>
