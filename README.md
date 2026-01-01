@@ -149,21 +149,22 @@
 
 <div align="center">
 
-- 🎓 **Cybersecurity Apprentice Certificate (ongoing)** – [Certificate Link](#)  
-- 🥇 **Hackerrank JavaScript & Python Certifications** – [Profile](#)  
-- 💻 **MERN Stack Development Bootcamp Completion** – [Certificate](#)  
+ 🎓 **Cybersecurity Apprentice Certificate (ongoing)** – [Certificate Link](#)  
+ 💻 **MERN Stack Development Bootcamp Completion** – [Certificate](#)  
 
 </div>
 
 
 ## ✨ Featured Projects
 
-- 🔗 **Blood Donation MERN App**  
+<div align="center">
+ 🔗 **Blood Donation MERN App**  
   https://github.com/ssabunayeem/P11-Blood-frontend
 
-- 🔗 **PawMart – React App**  
+ 🔗 **PawMart – React App**  
   https://github.com/ssabunayeem/P10-PawMart-frontend
-
+  
+</div>
 ---
 
 
@@ -171,10 +172,10 @@
 
 <div align="center">
 
-- 📚 Master **Next.js 14** & **Server Components**  
-- 🛡️ Deep dive into **Web Security & OWASP Top 10**  
-- ⚡ Explore **AI & Web3 integration for apps**  
-- 🎨 Improve **UI/UX skills with Figma & Photoshop**
+ 📚 Master **Next.js 14** & **Server Components**  
+ 🛡️ Deep dive into **Web Security & OWASP Top 10**  
+ ⚡ Explore **AI & Web3 integration for apps**  
+ 🎨 Improve **UI/UX skills with Figma & Photoshop**
 
 </div>
 
@@ -182,10 +183,10 @@
 
 <div align="center">
 
-- 📝 **Top Languages:** JavaScript > Python > C > Java  
-- 🛠️ **Most Used Tools:** VS Code, GitHub, Postman, Figma  
-- ⏰ **Coding Time:** 6-10 hours daily  
-- 🎵 **Focus Music:** Lo-fi & Synthwave  
+ 📝 **Top Languages:** JavaScript > Python > C > Java  
+ 🛠️ **Most Used Tools:** VS Code, GitHub, Postman, Figma  
+ ⏰ **Coding Time:** 6-10 hours daily  
+ 🎵 **Focus Music:** Lo-fi & Synthwave  
 
 </div>
 
