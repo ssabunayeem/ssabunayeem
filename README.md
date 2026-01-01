@@ -9,7 +9,7 @@
 <div align="center">
 
 <h2 align="center">
-  👋 Hey there, I'm <div color="#8A2BE2"><b> 🧑‍💻 S. S. Abu Nayeem 😎 </b></div>
+  👋 Hey there, I'm <div color="#8A2BE2"><b> S. S. Abu Nayeem </b></div>
 </h2>
 
 
