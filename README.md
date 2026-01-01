@@ -6,14 +6,16 @@
 
 
 
-
 <div align="center">
-  
-### 👋 Hey there, I'm **S. S. Abu Nayeem**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=MERN+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Cybersecurity+Apprentice;4%2B+Years+Experience+in+IT+%26+Training)](https://git.io/typing-svg)
+<h1>
+  👋 Hey there, I'm <span style="color:#8A2BE2;">S. S. Abu Nayeem</span>
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=80&lines=MERN+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Cybersecurity+Apprentice;4%2B+Years+Experience+in+IT+%26+Training)](https://git.io/typing-svg)
 
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
