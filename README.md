@@ -1,7 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=MERN%20Stack%20Web%20Developer&fontSize=38&fontAlignY=35&desc=Cybersecurity%20Apprentice&descAlignY=55&color=0:0F2027,50:203A43,100:2C5364" />
-
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=MERN%20Stack%20Web%20Developer&fontSize=38&fontAlignY=35&desc=Cybersecurity%20Apprentice&descAlignY=55&fontColor=FFFFFF&descColor=FFFFFF&color=0:6A0DAD,50:8A2BE2,100:C77DFF" 
+  />
 </div>
+
 
 <div align="center">
   
