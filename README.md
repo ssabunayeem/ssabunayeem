@@ -1,6 +1,6 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=MERN%20Stack%20Web%20Developer&fontSize=38&fontAlignY=35&desc=Cybersecurity%20Apprentice&descAlignY=55&fontColor=FFFFFF&descColor=FFFFFF&color=0:6A0DAD,50:8A2BE2,100:C77DFF" 
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&text=MERN%20Stack%20Web%20Developer&fontSize=38&fontWeight=900&fontAlignY=35&desc=Cybersecurity%20Apprentice&descAlignY=55&fontColor=FFFFFF&descColor=FFFFFF&color=0:0A0F3C,40:00E5FF,70:5B2DFF,100:2B004F"
   />
 </div>
 
