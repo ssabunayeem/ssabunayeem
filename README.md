@@ -1,14 +1,6 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api
-?type=waving
-&color=0:0F2027,100:203A43
-&height=180
-&section=header
-&text=MERN%20Stack%20Web%20Developer
-&fontSize=38
-&fontAlignY=32
-&desc=Cybersecurity%20Apprentice
-&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=180&section=header&text=MERN%20Stack%20Web%20Developer&fontSize=38&fontAlignY=32&desc=Cybersecurity%20Apprentice&animation=twinkling" />
+
 
 </div>
 
@@ -93,7 +85,7 @@
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -102,15 +94,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=highcontrast" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=ssabunayeem&theme=highcontrast" />
 </div>
 
 <div align="center">
-  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0D1117"/>
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=ssabunayeem&theme=tokyo-night&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ssabunayeem&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -134,4 +126,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
