@@ -158,7 +158,7 @@
 ## ✨ Featured Projects
 
 <div align="center">
- 🔗 **Blood Donation MERN App**
+ 🔗 **Blood Donation – MERN App**
   https://github.com/ssabunayeem/P11-Blood-frontend
 
  🔗 **PawMart – React App**
