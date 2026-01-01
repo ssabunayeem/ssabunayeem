@@ -1,53 +1,129 @@
-## Hi, I'm Nayeem 👋
+<div align="center">
 
-MERN Stack Web Developer | React & Next.js  
-Cybersecurity Apprentice  
-3+ Years Experience in IT & Training
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MERN%20Stack%20Web%20Developer%20%7C%20Cybersecurity%20Apprentice&fontSize=38&fontAlignY=32&desc=Building%20Practical%2C%20Scalable%20%26%20Secure%20Web%20Applications&descAlignY=51&descAlign=50&animation=twinkling"/>
 
-🚀 Building practical, scalable & secure web applications
+</div>
 
-### 🧠 Tech Stack
-- Frontend: React, Next.js, Tailwind, DaisyUI
-- Backend: Node.js, Express
-- Database: MongoDB
-- Auth & Security: JWT, Firebase Auth, Role-based Access
-- Tools: Git, GitHub, Postman, Stripe, Vercel, Netlify
+<div align="center">
+  
+### 👋 Hey there, I'm **S. S. Abu Nayeem**
 
-### 🛠️ Featured Projects
-- 🩸 Blood Donation Platform (MERN + JWT + Stripe)
-- 🐾 PawMart – Pet Adoption & Supply Platform
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=MERN+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Cybersecurity+Apprentice;3%2B+Years+Experience+in+IT+%26+Training)](https://git.io/typing-svg)
 
-### 🌱 Currently Learning
-- Next.js (App Router)
-- Backend Security Fundamentals
+</div>
 
-📫 Reach me: LinkedIn | Portfolio
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🎯 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname)
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+<div align="left">
 
-# Project Name
+- 🔭 Currently building **real-world MERN stack applications** with secure authentication & role-based access
+- 🌱 Learning **Next.js**, backend architecture, and **web security fundamentals**
+- 🧠 Strong background in **IT operations, training, and software fundamentals (3+ years)**
+- 👯 Open to collaborating on **full-stack web apps, SaaS tools & security-aware projects**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, JWT, Firebase Auth, REST APIs**
+- 📫 Reach me at: **ssabu.nayeem@gmail.com**
+- ⚡ Fun fact: **I love turning complex requirements into clean, working systems — code + discipline 💪**
 
-## 🚀 Live Demo
-https://your-live-link
+</div>
 
-## 📸 Screenshots
-![Home Page](link)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧰 Tech Stack
-- React
-- Node.js
-- MongoDB
-- JWT
-- Stripe
+## 💻 Tech Stack
 
-## ✨ Features
-- Role-based access (Admin/Donor/Volunteer)
-- Secure authentication
-- Payment integration
-- Pagination & filtering
+<div align="center">
 
-## 🛠️ Installation
-npm install
-npm run dev
+<!-- Frontend -->
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind</td>
+</tr>
+</table>
+
+<!-- Backend -->
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>Firebase</td>
+</tr>
+</table>
+
+<!-- Programming -->
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/>C</td>
+</tr>
+</table>
+
+<!-- Tools -->
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>Postman</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Watch My Commits Grow
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=highcontrast" />
+</div>
+
+<div align="center">
+  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ✨ Featured Projects
+
+<div align="center">
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Blood_Donation_MERN_App-181717?logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-PawMart_React_App-181717?logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ss-abu-nayeem)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ssabu.nayeem@gmail.com)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
