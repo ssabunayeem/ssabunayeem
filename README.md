@@ -143,6 +143,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+- 🎓 **Cybersecurity Apprentice Certificate (ongoing)** – [Certificate Link](#)  
+- 🥇 **Hackerrank JavaScript & Python Certifications** – [Profile](#)  
+- 💻 **MERN Stack Development Bootcamp Completion** – [Certificate](#)  
+
+</div>
+
+
 ## ✨ Featured Projects
 
 - 🔗 **Blood Donation MERN App**  
@@ -152,6 +165,41 @@
   https://github.com/ssabunayeem/P10-PawMart-frontend
 
 ---
+
+
+## 🚀Next Learning Roadmap
+
+<div align="center">
+
+- 📚 Master **Next.js 14** & **Server Components**  
+- 🛡️ Deep dive into **Web Security & OWASP Top 10**  
+- ⚡ Explore **AI & Web3 integration for apps**  
+- 🎨 Improve **UI/UX skills with Figma & Photoshop**
+
+</div>
+
+## 💡 Fun Stats
+
+<div align="center">
+
+- 📝 **Top Languages:** JavaScript > Python > C > Java  
+- 🛠️ **Most Used Tools:** VS Code, GitHub, Postman, Figma  
+- ⏰ **Coding Time:** 6-10 hours daily  
+- 🎵 **Focus Music:** Lo-fi & Synthwave  
+
+</div>
+
+
+
+## ✨ Portfolio Showcase
+
+<div align="center">
+
+[![Blood Donation App](https://raw.githubusercontent.com/ssabunayeem/P11-Blood-frontend/main/screenshot.png)](https://github.com/ssabunayeem/P11-Blood-frontend)  
+[![PawMart React App](https://raw.githubusercontent.com/ssabunayeem/P10-PawMart-frontend/main/screenshot.png)](https://github.com/ssabunayeem/P10-PawMart-frontend)
+
+</div>
+
 
 ## 🤝 Connect With Me
 
