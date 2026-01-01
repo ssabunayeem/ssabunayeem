@@ -216,6 +216,39 @@
 
 </div>
 
+## ✨ Featured Projects gallery-style
+
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+  <!-- Blood Donation MERN App -->
+  <a href="https://github.com/ssabunayeem/P11-Blood-frontend" target="_blank" title="Blood Donation MERN App">
+    <img 
+      src="https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/yim-blood-donation-ss.jpeg" 
+      alt="Blood Donation App Screenshot" 
+      width="350" 
+      style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3); transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.05)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    />
+    <p align="center" style="margin-top: 8px; font-weight: bold;">Blood Donation MERN App</p>
+  </a>
+
+  <!-- PawMart React App -->
+  <a href="https://github.com/ssabunayeem/P10-PawMart-frontend" target="_blank" title="PawMart React App">
+    <img 
+      src="https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/p10-winter-pet-care-ss.jpeg" 
+      alt="PawMart App Screenshot" 
+      width="350" 
+      style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3); transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.05)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    />
+    <p align="center" style="margin-top: 8px; font-weight: bold;">PawMart – React App</p>
+  </a>
+
+</div>
+
+
 <img
   width="100%."
   src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:1A1B4B,40:3FD2FF,70:7B6CFF,100:B388FF"
