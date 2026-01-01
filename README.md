@@ -165,7 +165,10 @@
  https://github.com/ssabunayeem/P10-PawMart-frontend
   
 </div>
----
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 ## 🚀Next Learning Roadmap
@@ -190,37 +193,18 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## ✨ Portfolio Showcase
 
-<div align="center">
-
-- 🔗 [Blood Donation MERN App](https://yim-blood-donation.netlify.app/)  
-  ![Blood App Screenshot](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/yim-blood-donation-ss.jpeg)
-
-- 🔗 [PawMart – React App](https://p10-winter-pet-care.surge.sh/)  
-  ![PawMart Screenshot](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/p10-winter-pet-care-ss.jpeg)
-
-
-</div>
-
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ssabunayeem)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://ssabunayeem.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ssabunayeem@gmail.com)
-
-</div>
-
-## ✨ Featured Projects gallery-style
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
   <!-- Blood Donation MERN App -->
+
+  🔗 [Blood Donation MERN App](https://yim-blood-donation.netlify.app/)  
+
   <a href="https://github.com/ssabunayeem/P11-Blood-frontend" target="_blank" title="Blood Donation MERN App">
     <img 
       src="https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/yim-blood-donation-ss.jpeg" 
@@ -233,7 +217,12 @@
     <p align="center" style="margin-top: 8px; font-weight: bold;">Blood Donation MERN App</p>
   </a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <!-- PawMart React App -->
+
+  🔗 [PawMart – React App](https://p10-winter-pet-care.surge.sh/)  
+  
   <a href="https://github.com/ssabunayeem/P10-PawMart-frontend" target="_blank" title="PawMart React App">
     <img 
       src="https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/p10-winter-pet-care-ss.jpeg" 
@@ -245,6 +234,18 @@
     />
     <p align="center" style="margin-top: 8px; font-weight: bold;">PawMart – React App</p>
   </a>
+
+</div>
+
+
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ssabunayeem)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://ssabunayeem.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ssabunayeem@gmail.com)
 
 </div>
 
