@@ -16,7 +16,7 @@
   
 ### 👋 Hey there, I'm **S. S. Abu Nayeem**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=MERN+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Cybersecurity+Apprentice;3%2B+Years+Experience+in+IT+%26+Training)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=MERN+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Cybersecurity+Apprentice;4%2B+Years+Experience+in+IT+%26+Training)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,7 +33,7 @@
 - 🧠 Strong background in **IT operations, training, and software fundamentals (4+ years)**
 - 👯 Open to collaborating on **full-stack web apps, SaaS tools & security-aware projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, JWT, Firebase Auth, REST APIs**
-- 📫 Reach me at: **ssabu.nayeem@gmail.com**
+- 📫 Reach me at: **ssabunayeem@gmail.com**
 - ⚡ Fun fact: **I love turning complex requirements into clean, working systems — code + discipline 💪**
 
 </div>
