@@ -69,7 +69,7 @@
 
 <!-- Programming -->
 
-### Programming & Tools
+### Programming
 
 <table>
 <tr>
@@ -79,13 +79,47 @@
 </tr>
 </table>
 
-<!-- Tools -->
+### 🛠️ Tools & Platforms
+
+<!-- Development Tools -->
 <table>
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48"/><br/>Vite</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>Postman</td>
+</tr>
+</table>
+
+<!-- Cybersecurity & OS -->
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali" width="48"/><br/>Kali Linux</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ubuntu" width="48"/><br/>Ubuntu</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vmware" width="48"/><br/>VMware</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=virtualbox" width="48"/><br/>VirtualBox</td>
+</tr>
+</table>
+
+<!-- Design, Media & Productivity -->
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=photoshop" width="48"/><br/>Photoshop</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=illustrator" width="48"/><br/>Illustrator</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mailchimp" width="48"/><br/>Mailchimp</td>
+<td align="center" width="96">🎥<br/>Video Editing</td>
+<td align="center" width="96">🐞<br/>Bug Tracking</td>
+</tr>
+</table>
+
+<!-- Operations & IT -->
+<table>
+<tr>
+<td align="center" width="96">🛠️<br/>Troubleshooting</td>
+<td align="center" width="96">🔍<br/>System Diagnostics</td>
+<td align="center" width="96">🧠<br/>Problem Solving</td>
 </tr>
 </table>
 
