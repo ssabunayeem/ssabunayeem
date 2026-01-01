@@ -1,6 +1,14 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MERN%20Stack%20Web%20Developer%20%7C%20Cybersecurity%20Apprentice&fontSize=38&fontAlignY=32&desc=Building%20Practical%2C%20Scalable%20%26%20Secure%20Web%20Applications&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api
+?type=waving
+&color=0:0F2027,100:203A43
+&height=180
+&section=header
+&text=MERN%20Stack%20Web%20Developer
+&fontSize=38
+&fontAlignY=32
+&desc=Cybersecurity%20Apprentice
+&animation=twinkling" />
 
 </div>
 
@@ -22,7 +30,7 @@
 
 - 🔭 Currently building **real-world MERN stack applications** with secure authentication & role-based access
 - 🌱 Learning **Next.js**, backend architecture, and **web security fundamentals**
-- 🧠 Strong background in **IT operations, training, and software fundamentals (3+ years)**
+- 🧠 Strong background in **IT operations, training, and software fundamentals (4+ years)**
 - 👯 Open to collaborating on **full-stack web apps, SaaS tools & security-aware projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, JWT, Firebase Auth, REST APIs**
 - 📫 Reach me at: **ssabu.nayeem@gmail.com**
@@ -111,8 +119,8 @@
 
 <div align="center">
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Blood_Donation_MERN_App-181717?logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-PawMart_React_App-181717?logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Blood_Donation_MERN_App-181717?logo=github)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/ssabunayeem/P11-Blood-frontend))
+[![GitHub Repo](https://img.shields.io/badge/GitHub-PawMart_React_App-181717?logo=github)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/ssabunayeem/P10-PawMart-frontend))
 
 </div>
 
@@ -120,9 +128,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ss-abu-nayeem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ssabunayeem)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ssabu.nayeem@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ssabunayeem@gmail.com)
 
 </div>
 
