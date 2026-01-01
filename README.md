@@ -24,6 +24,9 @@ Cybersecurity Apprentice
 📫 Reach me: LinkedIn | Portfolio
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname)
+
+
 # Project Name
 
 ## 🚀 Live Demo
