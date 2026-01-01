@@ -157,13 +157,14 @@
 
 ## ✨ Featured Projects
 
-- 🔗 [Blood Donation MERN App](https://github.com/ssabunayeem/P11-Blood-frontend)  
-  ![Blood App Screenshot](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/yim-blood-donation-ss.jpeg)
+<div align="center">
+ 🔗 **Blood Donation – MERN App**
+  https://github.com/ssabunayeem/P11-Blood-frontend
 
-- 🔗 [PawMart – React App](https://github.com/ssabunayeem/P10-PawMart-frontend)  
-  ![PawMart Screenshot](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/p10-winter-pet-care-ss.jpeg)
-
-
+ 🔗 **PawMart – React App**
+ https://github.com/ssabunayeem/P10-PawMart-frontend
+  
+</div>
 ---
 
 
@@ -195,8 +196,12 @@
 
 <div align="center">
 
-[![Blood Donation App](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/blob/main/resources/p10-winter-pet-care-ss.jpeg)](https://github.com/ssabunayeem/P11-Blood-frontend)  
-[![PawMart React App](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/blob/main/resources/yim-blood-donation-ss.jpeg)](https://github.com/ssabunayeem/P10-PawMart-frontend)
+- 🔗 [Blood Donation MERN App](https://github.com/ssabunayeem/P11-Blood-frontend)  
+  ![Blood App Screenshot](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/yim-blood-donation-ss.jpeg)
+
+- 🔗 [PawMart – React App](https://github.com/ssabunayeem/P10-PawMart-frontend)  
+  ![PawMart Screenshot](https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/p10-winter-pet-care-ss.jpeg)
+
 
 </div>
 
