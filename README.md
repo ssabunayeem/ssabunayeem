@@ -155,17 +155,6 @@
 </div>
 
 
-## ✨ Featured Projects
-
-<div align="center">
- 🔗 **Blood Donation – MERN App**
-  https://github.com/ssabunayeem/P11-Blood-frontend
-
- 🔗 **PawMart – React App**
- https://github.com/ssabunayeem/P10-PawMart-frontend
-  
-</div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -196,16 +185,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## ✨ Portfolio Showcase
+## ✨ Portfolio Projects
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
   <!-- Blood Donation MERN App -->
 
-  🔗 [Blood Donation MERN App](https://yim-blood-donation.netlify.app/)  
+  
+  💻 Code: [Blood Donation MERN App](https://github.com/ssabunayeem/P11-Blood-frontend)  
+  🔗 [live website](https://yim-blood-donation.netlify.app/)  
 
-  <a href="https://github.com/ssabunayeem/P11-Blood-frontend" target="_blank" title="Blood Donation MERN App">
+  <a href="https://yim-blood-donation.netlify.app/" target="_blank" title="Blood Donation MERN App">
     <img 
       src="https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/yim-blood-donation-ss.jpeg" 
       alt="Blood Donation App Screenshot" 
@@ -221,9 +212,10 @@
 
   <!-- PawMart React App -->
 
-  🔗 [PawMart – React App](https://p10-winter-pet-care.surge.sh/)  
+  💻 Code: [PawMart – React App](https://github.com/ssabunayeem/P10-PawMart-frontend)   
+  🔗 [live website](https://p10-winter-pet-care.surge.sh/)   
   
-  <a href="https://github.com/ssabunayeem/P10-PawMart-frontend" target="_blank" title="PawMart React App">
+  <a href="https://p10-winter-pet-care.surge.sh/" target="_blank" title="PawMart React App">
     <img 
       src="https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/main/resources/p10-winter-pet-care-ss.jpeg" 
       alt="PawMart App Screenshot" 
