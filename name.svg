@@ -70,7 +70,7 @@
           background-size: 300%;
           background-clip: text;
           -webkit-background-clip: text;
-          -webkit-text-fill-color: #b5b5f7;
+          -webkit-text-fill-color: #ffffff;
 
           animation:
             gradientMove 4s ease infinite,
