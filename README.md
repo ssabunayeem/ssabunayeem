@@ -1,27 +1,8 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=M&fontSize=58&fontWeight=700&fontColor=47A248&fontAlignY=35&desc=&color=0:000000,100:000000&animationSpeed=2"
-    style="position:relative; left:-210px;"
-  />
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=E&fontSize=58&fontWeight=700&fontColor=FFFFFF&fontAlignY=35&desc=&color=0:000000,100:000000&animationSpeed=2"
-    style="position:relative; left:-200px;"
-  />
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=R&fontSize=58&fontWeight=700&fontColor=61DAFB&fontAlignY=35&desc=&color=0:000000,100:000000&animationSpeed=2"
-    style="position:relative; left:-190px;"
-  />
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=N&fontSize=58&fontWeight=700&fontColor=539E43&fontAlignY=35&desc=&color=0:000000,100:000000&animationSpeed=2"
-    style="position:relative; left:-180px;"
-  />
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=%20Stack%20Web%20Developer&fontSize=58&fontWeight=700&fontColor=FFFFFF&fontAlignY=35&desc=Cyber%20Security%20Apprentice&descAlignY=55&descColor=FFFFFF&color=0:000000,100:000000&animationSpeed=2"
-    style="position:relative; left:-160px;"
+  <img width="100%."
+    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=MERN%20Stack%20Web%20Developer&fontSize=58&fontWeight=700&fontAlignY=35&desc=Cyber%20Security%20Apprentice&descAlignY=55&fontColor=FFFFFF&descColor=FFFFFF&color=0:B388FF,50:3FD2FF,70:7B6CFF,100:B388FF"
   />
 </div>
-
-
 
 
 
