@@ -9,10 +9,12 @@
 <div align="center">
   
 <h2 align="center">
-  👋 Hey there, I'm <font color="#8A2BE2"><b> S. S. Abu Nayeem</b></font>
+  👋 Hey there, I'm <font color="#8A2BE2"><b> </b></font>
 </h2>
 
-
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="S. S. Abu Nayeem" />
+</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=MERN+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Cybersecurity+Apprentice;4%2B+Years+Experience+in+IT+%26+Training)](https://git.io/typing-svg)
 
