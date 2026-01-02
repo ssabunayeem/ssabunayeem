@@ -19,7 +19,7 @@
             'Cantarell', 'Fira Sans', 'Droid Sans',
             'Helvetica Neue', sans-serif;
 
-          background: linear-gradient(270deg, #3828ca, #ff004c);
+          background: linear-gradient(270deg, #0caaf3ff, #710ef1ff);
           background-size: 200%;
           background-clip: text;
           -webkit-background-clip: text;
