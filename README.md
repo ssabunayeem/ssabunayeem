@@ -202,7 +202,7 @@
       onmouseover="this.style.transform='scale(1.05)'" 
       onmouseout="this.style.transform='scale(1)'"
     />
-    <p align="center" style="margin-top: 8px; font-weight: bold;">live website</p>
+    <p align="center" style="margin-top: 8px; font-weight: bold;">visit site</p>
   </a>
 
    
@@ -223,7 +223,7 @@
       onmouseover="this.style.transform='scale(1.05)'" 
       onmouseout="this.style.transform='scale(1)'"
     />
-    <p align="center" style="margin-top: 8px; font-weight: bold;">live website</p>
+    <p align="center" style="margin-top: 8px; font-weight: bold;">visit site</p>
   </a>
 
   🔗 Repo: [PawMart – React App](https://github.com/ssabunayeem/P10-PawMart-frontend)   
