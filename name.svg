@@ -42,7 +42,7 @@
           }
 
           50% {
-            transform: translateY(-6px);
+            transform: translateY(-15px);
           }
         }
 
@@ -65,12 +65,12 @@
 
           background: linear-gradient(270deg,
               #3828ca,
-              #c417f8,
+              #17f8ed,
               #3828ca);
           background-size: 300%;
           background-clip: text;
           -webkit-background-clip: text;
-          -webkit-text-fill-color: cyan;
+          -webkit-text-fill-color: blueviolet;
 
           animation:
             gradientMove 4s ease infinite,
