@@ -6,13 +6,11 @@
 
 
 
-<div align="center">
-  
-<h2 align="center">
-  👋 Hey there, I'm 
-  <img src="https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/master/name.svg" alt="S. S. Abu Nayeem" />
+<p align="center">
+  👋 Hey there, I'm
+  <img src="https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/master/name.svg" />
+</p>
 
-</h2>
 
 
 
