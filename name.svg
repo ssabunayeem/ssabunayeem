@@ -8,9 +8,9 @@
           100% { background-position: 0% 50%; }
         }
 
-        h1 {
+        h4 {
           margin: 0;
-          font-size: 2.2em;
+          font-size: 1.2em;
           font-weight: 800;
           text-align: center;
           letter-spacing: -0.03em;
@@ -19,8 +19,8 @@
             'Cantarell', 'Fira Sans', 'Droid Sans',
             'Helvetica Neue', sans-serif;
 
-          background: linear-gradient(270deg, #3828ca, #ff004c);
-          background-size: 200%;
+          background: linear-gradient(270deg, #4dd2f3ff, #7e0ce9ff);
+          background-size: 100%;
           background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
@@ -39,7 +39,7 @@
         }
 
         .snowflake {
-          position: absolute;
+          position: relative;
           top: -10%;
           color: #ffffff;
           font-size: 0.9em;
