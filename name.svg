@@ -20,16 +20,29 @@
 
         /* ---------- GLOW PULSE ---------- */
         @keyframes glowPulse {
-          0% {
-            text-shadow: 0 0 8px rgba(196, 23, 248, 0.35);
+
+          0%,
+          100% {
+            text-shadow: 0 0 5px #c417f8, 0 0 10px #c417f8,
+              0 0 20px #c417f8, 0 0 40px #c417f8;
           }
 
           50% {
-            text-shadow: 0 0 16px rgba(56, 40, 202, 0.6);
+            text-shadow: 0 0 10px #3828ca, 0 0 20px #3828ca,
+              0 0 30px #3828ca, 0 0 50px #3828ca;
+          }
+        }
+
+        /* ---------- WAVE ANIMATION ---------- */
+        @keyframes wave {
+
+          0%,
+          100% {
+            transform: translateY(0);
           }
 
-          100% {
-            text-shadow: 0 0 8px rgba(196, 23, 248, 0.35);
+          50% {
+            transform: translateY(-6px);
           }
         }
 
@@ -57,15 +70,91 @@
           background-size: 300%;
           background-clip: text;
           -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
+          -webkit-text-fill-color: cyan;
 
           animation:
             gradientMove 4s ease infinite,
             glowPulse 2.5s ease-in-out infinite;
         }
+
+        /* ---------- APPLY WAVE TO EACH LETTER ---------- */
+        .name span {
+          display: inline-block;
+          animation: wave 1.8s ease-in-out infinite;
+        }
+
+        /* stagger the letters for wave effect */
+        .name span:nth-child(1) {
+          animation-delay: 0s;
+        }
+
+        .name span:nth-child(2) {
+          animation-delay: 0.05s;
+        }
+
+        .name span:nth-child(3) {
+          animation-delay: 0.1s;
+        }
+
+        .name span:nth-child(4) {
+          animation-delay: 0.15s;
+        }
+
+        .name span:nth-child(5) {
+          animation-delay: 0.2s;
+        }
+
+        .name span:nth-child(6) {
+          animation-delay: 0.25s;
+        }
+
+        .name span:nth-child(7) {
+          animation-delay: 0.3s;
+        }
+
+        .name span:nth-child(8) {
+          animation-delay: 0.35s;
+        }
+
+        .name span:nth-child(9) {
+          animation-delay: 0.4s;
+        }
+
+        .name span:nth-child(10) {
+          animation-delay: 0.45s;
+        }
+
+        .name span:nth-child(11) {
+          animation-delay: 0.5s;
+        }
+
+        .name span:nth-child(12) {
+          animation-delay: 0.55s;
+        }
+
+        .name span:nth-child(13) {
+          animation-delay: 0.6s;
+        }
+
+        .name span:nth-child(14) {
+          animation-delay: 0.65s;
+        }
+
+        .name span:nth-child(15) {
+          animation-delay: 0.7s;
+        }
+
+        .name span:nth-child(16) {
+          animation-delay: 0.75s;
+        }
       </style>
 
-      <h1 class="name">S. S. Abu Nayeem</h1>
+      <h1 class="name">
+        <span>S</span><span>.</span><span> </span>
+        <span>S</span><span>.</span><span> </span>
+        <span>A</span><span>b</span><span>u</span><span> </span>
+        <span>N</span><span>a</span><span>y</span><span>e</span><span>e</span><span>m</span>
+      </h1>
     </div>
   </foreignObject>
 </svg>
