@@ -57,7 +57,7 @@
         .snowflake:nth-of-type(5) { left: 90%; animation-delay: 3s, 1.5s; }
       </style>
 
-      <h1>S. S. Abu Nayeem</h1>
+      <h4>S. S. Abu Nayeem</h4>
 
       <div class="snowflake">❅</div>
       <div class="snowflake">❅</div>
