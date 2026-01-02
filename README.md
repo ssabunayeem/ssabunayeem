@@ -1,8 +1,9 @@
 <div align="center">
-  <img width="100%."
-    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=MERN%20Stack%20Web%20Developer&fontSize=58&fontWeight=700&fontAlignY=35&desc=Cyber%20Security%20Apprentice&descAlignY=55&fontColor=FFFFFF&descColor=FFFFFF&color=0:B388FF,50:3FD2FF,70:7B6CFF,100:B388FF"
+  <img width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=MERN%20Stack%20Web%20Developer&fontSize=58&fontWeight=700&fontAlignY=35&desc=Cyber%20Security%20Apprentice&descAlignY=55&fontColor=00FFFF&descColor=FF00FF&color=0:3FD2FF,25:0FF0FF,50:B388FF,75:3FD2FF,100:7B6CFF&animationSpeed=2"
   />
 </div>
+
 
 
 
