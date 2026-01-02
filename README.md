@@ -1,56 +1,26 @@
 <div align="center">
-  <svg viewBox="0 0 1000 225" width="100%" height="225" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .banner {
-        font-family: 'Fira Code', monospace;
-        font-size: 58px;
-        font-weight: 700;
-        fill: white;
-        text-anchor: middle;
-        dominant-baseline: middle;
-        animation: wave 2s ease-in-out infinite;
-      }
-
-      /* Individual MERN letters */
-      .M { fill: #47A248; } /* MongoDB green */
-      .E { fill: #FFFFFF; } /* White */
-      .R { fill: #61DAFB; } /* React blue */
-      .N { fill: #539E43; } /* Node.js green */
-
-      /* Subtitle */
-      .desc {
-        font-size: 28px;
-        fill: white;
-        animation: wave 2s ease-in-out infinite;
-      }
-
-      @keyframes wave {
-        0%, 100% { transform: translateY(0px); }
-        50% { transform: translateY(-8px); }
-      }
-
-      /* Neon glow effect */
-      .glow {
-        filter: drop-shadow(0 0 6px #00FFFF)
-                drop-shadow(0 0 12px #00FFFF);
-      }
-    </style>
-
-    <!-- Main Text -->
-    <text x="50%" y="50" class="banner glow">
-      <tspan class="M">M</tspan>
-      <tspan class="E">E</tspan>
-      <tspan class="R">R</tspan>
-      <tspan class="N">N</tspan>
-      <tspan> Stack Web Developer</tspan>
-    </text>
-
-    <!-- Subtitle -->
-    <text x="50%" y="120" class="desc glow">
-      Cyber Security Apprentice
-    </text>
-  </svg>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=M&fontSize=58&fontWeight=700&fontColor=47A248&fontAlignY=35&desc=&color=0:000000,100:000000&animationSpeed=2"
+    style="position:relative; left:-210px;"
+  />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=E&fontSize=58&fontWeight=700&fontColor=FFFFFF&fontAlignY=35&desc=&color=0:000000,100:000000&animationSpeed=2"
+    style="position:relative; left:-200px;"
+  />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=R&fontSize=58&fontWeight=700&fontColor=61DAFB&fontAlignY=35&desc=&color=0:000000,100:000000&animationSpeed=2"
+    style="position:relative; left:-190px;"
+  />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=N&fontSize=58&fontWeight=700&fontColor=539E43&fontAlignY=35&desc=&color=0:000000,100:000000&animationSpeed=2"
+    style="position:relative; left:-180px;"
+  />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=225&text=%20Stack%20Web%20Developer&fontSize=58&fontWeight=700&fontColor=FFFFFF&fontAlignY=35&desc=Cyber%20Security%20Apprentice&descAlignY=55&descColor=FFFFFF&color=0:000000,100:000000&animationSpeed=2"
+    style="position:relative; left:-160px;"
+  />
 </div>
+
 
 
 
