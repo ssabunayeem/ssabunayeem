@@ -13,9 +13,9 @@
 
 
 
+<div align="center">
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=MERN+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Cybersecurity+Apprentice;4%2B+Years+Experience+in+IT+%26+Training)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=MERN+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Cybersecurity+Apprentice;4%2B+Years+Experience+in+IT+%26+Training&stroke=00D9FF&strokeWidth=1)](https://git.io/typing-svg)
 
 </div>
 
@@ -116,7 +116,7 @@
 
 
 
-## 🐍 Watch My Commits Grow
+## 🐍 Commits Grow
 
 <div align="center">
 
