@@ -10,7 +10,8 @@
   
 <h2 align="center">
   👋 Hey there, I'm 
-  <img src="/name.svg" alt="S. S. Abu Nayeem" />
+  <img src="https://raw.githubusercontent.com/ssabunayeem/ssabunayeem/master/name.svg" alt="S. S. Abu Nayeem" />
+
 </h2>
 
 
